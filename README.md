@@ -1,2 +1,2 @@
-# Loja feita na faculdade
- projeto do primeiro semestre
+# Loja Feita na Faculdade
+ projeto do primeiro semestre!!
